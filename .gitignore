@@ -1,0 +1,5 @@
+# Project exclude paths
+/business-services/apigateway/target/
+/business-services/discovery/target/
+/platform-services/customer/target/
+/platform-services/stock/target/
